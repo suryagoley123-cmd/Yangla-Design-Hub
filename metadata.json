@@ -1,0 +1,6 @@
+{
+  "name": "Yangla Design",
+  "description": "Kathmandu premier commercial offset, high-speed digital printing, luxury packaging, and signage production hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
